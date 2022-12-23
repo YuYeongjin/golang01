@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd6ae4cd-c01f-44b2-9fea-97fa9d0f9dc1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/main/first.go" afterDir="false" />
+    <list default="true" id="bd6ae4cd-c01f-44b2-9fea-97fa9d0f9dc1" name="변경" comment="first go">
+      <change beforePath="$PROJECT_DIR$/.idea/main/first.go" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/main/first.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/golang01.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +59,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671776068304</updated>
-      <workItem from="1671776069572" duration="168000" />
+      <workItem from="1671776069572" duration="827000" />
     </task>
+    <task id="LOCAL-00001" summary="first go">
+      <created>1671776251545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671776251545</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +87,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first go" />
+    <option name="LAST_COMMIT_MESSAGE" value="first go" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
